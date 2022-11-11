@@ -88,7 +88,7 @@
         </div>
     </div>
     <div id="alerta" class="alert alert-secondary" role="alert">
-    PERSONAJES ALEATOREOS. <a href="CASA.PHP" class="alert-link" id="link1">RECARGAR LA PAGINA</a> PARA VER OTROS PERSONAJES.
+    PERSONAJES ALEATOREOS. <a href="index.php" class="alert-link" id="link1">RECARGAR LA PAGINA</a> PARA VER OTROS PERSONAJES.
 </div>
     <div class="container">
         <div class="row">
